@@ -25,20 +25,6 @@ This repository contains the following files:
 - `Optimization_methods.ipynb`: Implements **SGD**, **Momentum**, **RMSprop**, and **Adam** optimization algorithms. ⚡
 - `Regularization.ipynb`: Explores **L2 regularization**, **dropout**, and other methods to prevent overfitting. 🧠
 - `Tensorflow_introduction.ipynb`: Introduction to using **TensorFlow** for building neural networks. 🧑‍💻
-- `README.md`: The file you're reading right now! 📄
 
----
 
-## ⚙️ Installation and Setup
 
-To get started with this project, ensure you have the following:
-
-1. **Python** (3.6 or higher) 🐍
-2. **TensorFlow** (2.x) 🧠
-3. **NumPy** 🔢
-4. **Matplotlib** (for visualizations) 📊
-
-You can install the required dependencies by running:
-
-```bash
-pip install tensorflow numpy matplotlib
